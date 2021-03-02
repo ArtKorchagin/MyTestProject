@@ -1,1 +1,3 @@
-class Second {}
+class Second {
+//
+}
